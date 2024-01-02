@@ -1,5 +1,4 @@
-# tendencia_arduino_ecuador
-Análisis de tendencias de Arduino Uno en Ecuador 🤖  
+# Análisis de tendencias de Arduino Uno en Ecuador 🤖  
 
 Explorando las tendencias de búsquedas en Ecuador, noté un aumento significativo en las consultas relacionadas con Arduino Uno tanto en mayo como en febrero. Este incremento podría estar vinculado al período en que las instituciones educativas abarcan contenido relacionado y a las vacaciones en febrero.
 
