@@ -1,6 +1,8 @@
-const int pins[] = {13, 12, 11};
+// C++ code
+
+const int pins[] = {7, 4, 2};
 const int numPins = sizeof(pins) / sizeof(pins[0]);
-int x = 100;
+int x = 200;
 
 void setup() {
   for (int i = 0; i < numPins; ++i) {
